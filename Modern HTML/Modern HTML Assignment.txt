@@ -1,0 +1,51 @@
+﻿Modern HTML Assignment
+
+
+
+
+
+
+Ans1-  there are some of the keys features of html5:
+1. Semantic Element.
+2. Multimedia Support
+3. Canvas and svg
+4. Geolocation.
+
+
+Ans2.-- HTML entities are special code used to represent character, symbol that have special meaning in html.
+Eg:
+1. ‘&lt’  - (<)
+2. ‘&gt’ - (>)
+3. ‘&amp’ - (&)
+4. ‘&quot’ - (“)
+5. ‘&apos’ - (‘)
+
+
+
+
+Ans3. - Accessibility - It aim to provide equal access to information and functionality for all user, regardless of their physical or cognitive abilities.
+It helps to create a clear and documented structure.
+Provide descriptive alt text for image so that Screen reader can conway the control and purpose of the image.
+
+
+Ans4. - there are some: 
+1. Semantic HTMl Element- like <header>, <nav>, <section>,<footer>.
+2. Alt Text for Image - always use alternative teat with image.
+3. Keyboard Accessibility -  This include navigation menu, forms, button, links.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Full Stack Web Development
